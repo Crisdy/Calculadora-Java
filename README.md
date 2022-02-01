@@ -1,0 +1,1 @@
+Realizando trabalho de uma calculadora simples que soma, subtrai, multiplica, dividi e reconhece a divisão com numeros decimais e não aceita a divisão por (0).
